@@ -1,4 +1,4 @@
-# Starting point
+# u-burros
 
 [![build-ublue](https://github.com/b-boro/u-burros/actions/workflows/build.yml/badge.svg)](https://github.com/b-boro/u-burros/actions/workflows/build.yml)
 
