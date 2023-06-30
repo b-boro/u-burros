@@ -58,10 +58,6 @@ rpm:
     # Add your own below:
     # Example:
     - fish
-    - kitty
-    - kitty-terminfo
-    - kitty-bash-integration
-    - kitty-fish-integration
     - btop
     - ripgrep
     - fd-find
