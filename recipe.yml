@@ -71,6 +71,9 @@ rpm:
     - firefox-langpacks
     - htop
     - vim-enhanced
+    - xxd
+    - gpm-libs
+    - libsodium
 # Configuration for the "first boot" experience, which is available after login.
 firstboot:
   # Whether to embed "yafti" into the OS image and configure it to autostart,
